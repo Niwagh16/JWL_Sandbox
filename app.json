@@ -1,0 +1,30 @@
+{
+  "id": "1c8f6bfe-8275-47e5-bfb8-9dccb3101847",
+  "name": "InvoicesReport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.11",
+  "runtime": "7.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "20.0.44266.44359",
+  "dependencies": [
+    {
+      "id": "12fae5ed-dd97-401e-9e33-b7c9bb336db8",
+      "name": "JWLVendParentChild",
+      "version": "1.0.0.34",
+      "publisher": "Cyret"
+    },
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
